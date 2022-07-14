@@ -1,7 +1,7 @@
 {
-  "name": "udemy-react-2",
+  "name": "udemy-react-3",
   "version": "1.0.0",
-  "description": "",
+  "description": "モダンJavaSciptの基礎から始める挫折しないためのReact入門の最終成果物",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
